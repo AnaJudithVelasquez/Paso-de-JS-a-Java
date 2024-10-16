@@ -3,8 +3,6 @@ int edad = 0, estadoCivil = 0, estatura = 0, sexo = 0, contadorPersonas, acomula
 int cantidadPersonas;
 
 
-
-
 public LogicaFor(int edad, int estadoCivil, int estatura, int sexo, int contadorPersonas, int acomuladorEdad,
                 int acomuladorEstatura, int numeroPersona, int cantidadPersonas) {
         this.edad = edad;
